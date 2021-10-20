@@ -1,0 +1,55 @@
+[
+    {
+      "name": "Gym Facility",
+      "id": 1,
+      "imagurl": "https://i.ibb.co/ygDsCs4/gym.png",
+      "desmini": "State of the art; highest quality equipmentsand full range Gym with Free Weights ( Olympic)",
+      "desdetail": "State of the art; highest quality equipmentsand full range Gym with Free Weights ( Olympic) Variety of Cardio / Aerobics machines/Equipments Separate locker rooms with showers and steam room",
+      "packages": "Packages : Monthly/ Yearly"
+    },
+    {
+      "name": "Diet",
+      "id": 2,
+      "imagurl": "https://i.ibb.co/wppTZTm/diet.png",
+      "desmini": "Diet, nutrition & supplementation planning Individual Personal & Group Training Professional Trainers",
+      "desdetail": "Welcome to Fitness Monster Weight Loss & Training Centers. By joining our team, you have become part of an exciting new concept in the fitness industry -- and we’re glad to have you on board! For most people, there are countless options when it comes to joining a health club. From high-end clubs with thousands of members and incredible amenities, to small, basic gyms with a rack of dumbbells and a couple of treadmills — where you train really depends on personal preference and budget. FitSmart® provides a unique solution for those seeking to end their weight loss battles. The idea behind Fitness Monster Weight Loss & Training Centers is to provide members with the tools they truly need to achieve their weight loss goals. Often, those struggling with excess weight are intimidated by the average “gym environment,” lack exercise knowledge, and desperately need help with their diets. Fitness Monster helps break through each of these barriers, thanks to always providing a friendly non-intimidating atmosphere",
+      "packages": "Packages : Monthly"
+    },
+    {
+      "name": "Tele-Medicine",
+      "id": 3,
+      "imagurl": "https://i.ibb.co/gtqg8DW/tele.jpg",
+      "desmini": "Telemedicine brings healthcare within reach of population residing in medically inaccessible areas.",
+      "desdetail": "Telemedicine brings healthcare within reach of population residing in medically inaccessible areas. They will also be able to share their medical reports and images to ensure an all round investigation and an accurate diagnosis . Doctors can get in touch with their peers to discuss compli- cated cases or to get specialized help remotely.",
+      "packages": "Packages : On-Demand"
+    },
+    {
+      "name": "Martial-Art",
+      "id": 4,
+      "imagurl": "https://i.ibb.co/DzgTBf7/mart.png",
+      "desmini": " Fitness Monster offers martial arts training with certified Master instructors.",
+      "desdetail": "Finding time to pursue your passions isn’t an option for everyone these days, and that’s why Fitness Monster offers martial arts training with certified Master instructors. Our martial arts training modules allow you to receive national and international certification from the comfort of your own home",
+      "packages": "Packages : Monthly"
+    },
+    {
+      "name": "Gym Installation",
+      "id": 5,
+      "imagurl": "https://i.ibb.co/sgBZx44/installation.png",
+      "desmini": "Fitness Monster has earned its reputation as we provide exceptional service to each of our customers.",
+      "desdetail": "Fitness Monster has earned its positive reputation because we go out of our way to provide truly exceptional service to each of our customers. We install all brands of fitness equipment, home and commercial.",
+      "packages": "Packages : Commercial / Household"
+    },
+    {
+      "name": "Equipment Servicing",
+      "id": 6,
+      "imagurl": "https://i.ibb.co/z8rb0yY/service.png",
+      "desmini": "Fitness Monstar experts offer top quality support for all types of gym equipment.",
+      "desdetail": "Fitness Monster offers top quality support for all types of gym equipment. Founded right here in Colorado Springs in 2011, we have over 25+ years of service experience. Whether you need help with troubleshooting, repair, maintenance and assembly, A & L Fitness Care is here to help! Simply call or email to learn more about pricing. As one of the leading local businesses in the Colorado Springs area, we attribute our reputation to the lasting customer relationships we’ve developed throughout the years. We believe that all of our customers deserve the highest level of service, and we are committed to providing just that. Please get in touch with any questions. We are always here for you.",
+      "packages": "Packages : On demand"
+    }
+  ]
+
+  
+
+
+
