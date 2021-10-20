@@ -29,7 +29,7 @@ const Header = () => {
                         Signed in as: <a href="#login">Mark Otto</a>
                     </Navbar.Text> */}
                     <Navbar.Text>
-                    {user?.email && <span>Signed in as : {user.displayName}<button onClick={logout}>  logout </button></span> }
+                    {user?.email && <span>Signed in as : {user.displayName ? user.displayName : user.email}<button onClick={logout}>  logout </button></span> }
                         
                     </Navbar.Text>
                     </Navbar.Collapse>
