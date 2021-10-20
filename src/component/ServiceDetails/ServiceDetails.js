@@ -26,7 +26,7 @@ const ServiceDetails = () => {
         <div className='container'>
             <h1 className="fw-bold">Welcome to Fitness Monster {name} Program </h1>
             <div className='row'>
-                <div className = 'col-7 m-auto'>
+                <div className = 'col-md-7 m-auto'>
                     <div className="card h-100 p-3 m-3">
                         <img src={imagurl} className="card-img-top img-fluid"  alt="..."/>
                         <div className="card-body p-3 m-3">

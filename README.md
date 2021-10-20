@@ -11,8 +11,8 @@ In the project directory, you can run:
 
 ### `5 Routes`
 ### `6 section on landing page`
-### `Header and Footer`
-### `Fire Base `
+### `Header and Footer added`
+### `Fire Base Authentication used`
 ### `login in With Google / Manual registration`
 
 
